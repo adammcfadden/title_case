@@ -10,7 +10,7 @@ describe('String#title_case') do
   #   expect("tO kIll a MockINgbird".title_case()).to(eq("to Kill a Mockingbird"))
   # end
 
-  it("given multiple words, returns the string with all words in the string having the first letter capitalized and the rest in lowercase, except to, the, of, from, and, a, but, or, by, on. It also makes sure the first word is capitalized") do
+  it("given multiple words, returns the string with all words in the string having the first letter capitalized and the rest in lowercase, except to, the, of, from, and, a, but, or, by, on, in. It also makes sure the first word is capitalized") do
     expect("tO kIll a MockINgbird".title_case()).to(eq("To Kill a Mockingbird"))
   end
 
