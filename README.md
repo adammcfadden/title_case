@@ -1,4 +1,4 @@
-#Number to Words
+#Title Case
 
 This program contains the title_case method, and a Sinatra app that will deploy the program and allow the user to interact.
 
