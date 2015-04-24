@@ -11,9 +11,9 @@ This program also ensures that the case of all characters is correct by calling 
 >Example: Input = ThE DoG Is blue Output = The Dog is Blue
 
 **Requirements:**
-Ruby 2.2.0
-Rubygems, Bundler
-Sinatra
-Capybara - for testing
+-Ruby 2.2.0
+-Rubygems, Bundler
+-Sinatra
+-Capybara - for testing
 
 *Adam McFadden*
